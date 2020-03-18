@@ -1,1 +1,1 @@
-utils\php.exe utils\logic\logic.php
+start cmd.exe /k utils\php.exe utils\logic\logic.php

@@ -1,4 +1,10 @@
 # ps2pdf converter
+
+## Updated
+I updated this code to handle a nested file structure in folder for .ps files.
+Updated from ghostscript from 9.19 to 9.51w32.
+And some made some formating changes of the output.
+
 ## What is ps2pdf
 ps2pdf is a CLI based tool which is used for bulk convert from PS files to PDF files
 
